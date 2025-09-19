@@ -9,7 +9,7 @@ It returns a JSON response with a greeting and timestamp, and logs all requests 
 ## 🛠 Tools Used
 - **AWS Lambda** (Python)
 - **API Gateway**
-- **CloudWatch Logs
+- **CloudWatch Logs**
 
 ## 📌 Key Features
 - Serverless design — no servers to manage
